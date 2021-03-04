@@ -1,7 +1,8 @@
 # iOS-application-URL-
 在捷径中，为了调用某些应用，需要给出类似URL格式的前缀，本仓库中为目前收集到的所有URL，供大家参考：
+(可以直接CTRL + F搜索你想要的内容)
 
-```css
+```ruby
 捷径 shortcuts://
 
 Workflow workflow://
